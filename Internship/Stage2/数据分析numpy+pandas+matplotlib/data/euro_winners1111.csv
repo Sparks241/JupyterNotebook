@@ -1,0 +1,59 @@
+,Season,Nation,Winners,Score,Runners-up,Runner-UpNation,Venue,Attendance
+0,1955每56,Spain,Real Madrid,4每3,Stade de Reims,?France,"Parc des Princes,Paris",38239
+1,1956每57,Spain,Real Madrid,2每0,Fiorentina,Italy,"Santiago Bernab谷u Stadium,?Madrid",124000
+2,1957每58,Spain,Real Madrid,3每2,Milan,Italy,"Heysel Stadium,Brussels",67000
+3,1958每59,Spain,Real Madrid,2每0,Stade de Reims,?France,"Neckarstadion,Stuttgart",72000
+4,1959每60,Spain,Real Madrid,7每3,Eintracht Frankfurt,Germany,"Hampden Park,Glasgow",127621
+5,1960每61,Portugal,Benfica,3每2,Barcelona,Spain,"Wankdorf Stadium,Bern",26732
+6,1961每62,Portugal,Benfica,5每3,Real Madrid,Spain,"Olympisch Stadion,Amsterdam",61257
+7,1962每63,Italy,Milan,2每1,Benfica,Portugal,"Wembley Stadium,London",45715
+8,1963每64,Italy,Internazionale,3每1,Real Madrid,Spain,"Prater Stadium,Vienna",71333
+9,1964每65,Italy,Internazionale,1每0,Benfica,Portugal,"San Siro,?Milan",89000
+10,1965每66,Spain,Real Madrid,2每1,Partizan,Yugoslavia,"Heysel Stadium,Brussels",46745
+11,1966每67,Scotland,Celtic,2每1,Internazionale,Italy,"Est芍dio Nacional,Lisbon",45000
+12,1967每68,England,Manchester United,4每1,Benfica,Portugal,"Wembley Stadium,London",92225
+13,1968每69,Italy,Milan,4每1,Ajax,Netherlands,"Santiago Bernab谷u Stadium,?Madrid",31782
+14,1969每70,Netherlands,Feyenoord,2每1,Celtic,Scotland,"San Siro,?Milan",53187
+15,1970每71,Netherlands,Ajax,2每0,Panathinaikos,Greece,"Wembley Stadium,London",83179
+16,1971每72,Netherlands,Ajax,2每0,Internazionale,Italy,"De Kuip,?Rotterdam",61354
+17,1972每73,Netherlands,Ajax,1每0,Juventus,Italy,"Red Star Stadium,Belgrade",89484
+18,1973每74,Germany,Bayern Munich,4每0,Atl谷tico Madrid,Spain,"Heysel Stadium,Brussels",72047
+19,1974每75,Germany,Bayern Munich,2每0,Leeds United,England,"Parc des Princes,Paris",48374
+20,1975每76,Germany,Bayern Munich,1每0,Saint-?tienne,France,"Hampden Park,Glasgow",54864
+21,1976每77,England,Liverpool,3每1,Borussia M?nchengladbach,Germany,"Stadio Olimpico,Rome",52078
+22,1977每78,England,Liverpool,1每0,Club Brugge,?Belgium,"Wembley Stadium,London",92500
+23,1978每79,England,Nottingham Forest,1每0,Malm? FF,Sweden,"Olympiastadion,Munich",57500
+24,1979每80,England,Nottingham Forest,1每0,Hamburg,Germany,"Santiago Bernab谷u Stadium,?Madrid",51000
+25,1980每81,England,Liverpool,1每0,Real Madrid,Spain,"Parc des Princes,Paris",48360
+26,1981每82,England,Aston Villa,1每0,Bayern Munich,Germany,"De Kuip,?Rotterdam",46000
+27,1982每83,Germany,Hamburg,1每0,Juventus,Italy,"Olympic Stadium,Athens",73500
+28,1983每84,England,Liverpool,1每1*[B],Roma,Italy,"Stadio Olimpico,Rome",69693
+29,1984每85,Italy,Juventus,1每0,Liverpool,England,"Heysel Stadium,Brussels",58000
+30,1985每86,Romania,Steaua Bucure?ti,0每0*[C],Barcelona,Spain,"Estadio Ram車n S芍nchez Pizju芍n,Seville",70000
+31,1986每87,Portugal,Porto,2每1,Bayern Munich,Germany,"Prater Stadium,Vienna",57500
+32,1987每88,Netherlands,PSV Eindhoven,0每0*[D],Benfica,Portugal,"Neckarstadion,Stuttgart",68000
+33,1988每89,Italy,Milan,4每0,Steaua Bucureti,Romania,"Camp Nou,Barcelona",97000
+34,1989每90,Italy,Milan,1每0,Benfica,Portugal,"Prater Stadium,Vienna",57500
+35,1990每91,Yugoslavia,Red Star Belgrade,0每0*[E],Marseille,France,"Stadio San Nicola,Bari",56000
+36,1991每92,Spain,Barcelona,1每0,Sampdoria,Italy,"Wembley Stadium,London",70827
+37,1992每93,France,Marseille,1每0,Milan,Italy,"Olympiastadion,Munich",64400
+38,1993每94,Italy,Milan,4每0,Barcelona,Spain,"Olympic Stadium,Athens",70000
+39,1994每95,Netherlands,Ajax,1每0,Milan,Italy,"Ernst-Happel-Stadion,Vienna",49730
+40,1995每96,Italy,Juventus,1每1*[F],Ajax,Netherlands,"Stadio Olimpico,Rome",70000
+41,1996每97,Germany,Borussia Dortmund,3每1,Juventus,Italy,"Olympiastadion,Munich",59000
+42,1997每98,Spain,Real Madrid,1每0,Juventus,Italy,"Amsterdam Arena,Amsterdam",48500
+43,1998每99,England,Manchester United,2每1,Bayern Munich,Germany,"Camp Nou,?Barcelona",90245
+44,1999每00,Spain,Real Madrid,3每0,Valencia,Spain,"Stade de France,Saint-Denis",80000
+45,2000每01,Germany,Bayern Munich,1每1*[G],Valencia,Spain,"San Siro,?Milan",79000
+46,2001每02,Spain,Real Madrid,2每1,Bayer Leverkusen,Germany,"Hampden Park,Glasgow",50499
+47,2002每03,Italy,Milan,0每0*[H],Juventus,Italy,"Old Trafford,Manchester",62315
+48,2003每04,Portugal,Porto,3每0,AS Monaco,France,"Arena AufSchalke,Gelsenkirchen",53053
+49,2004每05,England,Liverpool,3每3*[I],Milan,Italy,"Atat邦rk Olympic Stadium,?Istanbul",69000
+50,2005每06,Spain,Barcelona,2每1,Arsenal,England,"Stade de France,Saint-Denis",79610
+51,2006每07,Italy,Milan,2每1,Liverpool,England,"Olympic Stadium,Athens",63000
+52,2007每08,England,Manchester United,1每1*[J],Chelsea,England,"Luzhniki Stadium,Moscow",67310
+53,2008每09,Spain,Barcelona,2每0,Manchester United,England,"Stadio Olimpico,Rome",62467
+54,2009每10,Italy,Internazionale,2每0,Bayern Munich,Germany,"Santiago Bernab谷u Stadium,Madrid",73490
+55,2010每11,Spain,Barcelona,3每1,Manchester United,England,"Wembley Stadium,London",87695
+56,2011每12,England,Chelsea,1每1*[K],Bayern Munich,Germany,"Allianz Arena,Munich",62500
+57,2012每13,Germany,Bayern Munich,2每1,Borussia Dortmund,Germany,"Wembley Stadium,London",86298
